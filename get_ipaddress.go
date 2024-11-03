@@ -1,3 +1,4 @@
+// https://gosamples.dev/local-ip-address/
 package main
 
 import (
